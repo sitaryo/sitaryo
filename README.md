@@ -1,3 +1,4 @@
+![pika](https://github.com/user-attachments/assets/f7fb7dc9-2400-416d-949a-1eea1b758b58)
 ## Hi there 👋
 
 **sitaryo/sitaryo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
